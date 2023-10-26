@@ -1,0 +1,27 @@
+#: locale=fr
+
+## Habillage
+
+### Étiquette
+label4056.text = My Virtual Tour
+
+## Média
+
+### Titre
+photo_7D22DD32_6D56_B64D_41D5_BFFE634FCFDF.label = Montazels
+panorama_616C1EDF_6D5F_F3F3_41B4_94E1CC9C2548.label = panorama-chateau-gim10
+
+## Popup
+
+### Corps
+htmlText_62DC6191_6D59_AE4F_41DA_F80B070D5818.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Chateau de montazel ........</SPAN></DIV></BODY></HTML></div>
+
+### Titre
+window_62DF9191_6D59_AE4F_41DA_3B9BE9FC56C4.title = information
+
+## Visite
+
+### Description
+
+### Titre
+tour.name = Sans titre 1
